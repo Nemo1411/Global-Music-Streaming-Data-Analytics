@@ -1,7 +1,5 @@
 # Global-Music-Streaming-Data-Analytics
 
-# Global Music Streaming Data Analytics
-
 ### Situation
 
 In the pursuit of honing my data analytics skills, I chose to work on a project related to global music streaming services like Spotify, Apple Music, and Tidal. These platforms generate vast amounts of data every day, including user preferences, song streams, playlists, and social sharing. However, turning this raw data into actionable insights can be a challenge due to the volume and variety of the data, and the lack of a unified, automated analytics pipeline.
